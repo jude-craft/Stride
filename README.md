@@ -175,7 +175,5 @@ We welcome bug reports and pull requests! Please:
 4. Push to the branch (`git push origin feature/my-feature`).
 5. Open a Pull Request.
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
 
